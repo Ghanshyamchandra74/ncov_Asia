@@ -2,6 +2,7 @@
 # Getting ` nextstrain ` with conda
 ` conda create -n nextstrain -c conda-forge -c bioconda 
 augur auspice nextstrain-cli nextalign snakemake awscli git pip ` \
+ \
 ` conda activate nextstrain ` \
 ` nextstrain check-setup --set-default `
 # Preparing data
