@@ -1,0 +1,12 @@
+WARNING: A sequence index was not provided, so we are generating one. Generate your own index ahead of time with `augur index` and pass it with `augur filter --sequence-index`.
+23 strains were dropped during filtering
+	11 had no sequence data
+	12 had no metadata
+	0 of these were dropped because they were in ['defaults/exclude.txt', 'results/to-exclude_asia.txt']
+	0 of these were dropped because of 'division=USA'
+	0 of these were dropped because they were shorter than minimum length of 27000bp
+	0 of these were dropped because of their date (or lack of date)
+
+	2 strains were added back because they were requested by include files
+	1 strains from include files were not added because they lacked sequence or metadata
+3967 strains passed all filters

@@ -1,0 +1,4 @@
+scripts/assign-colors.py:39: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  subset_present = [x for x in assignment[name] if x in metadata[name].unique()]
+No traits found for location
+WARNING: insufficient colours available for trait pango_lineage - reusing colours!

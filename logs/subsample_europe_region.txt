@@ -1,0 +1,9 @@
+sampling at 5 per group.
+398 strains were dropped during filtering
+	45 had no sequence data
+	0 of these were dropped because they were in ['defaults/exclude.txt']
+	345 of these were dropped because of 'region!=Europe'
+
+	2 strains were added back because they were requested by include files
+	1 strains from include files were not added because they lacked sequence or metadata
+20 strains passed all filters

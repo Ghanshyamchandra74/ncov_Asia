@@ -1,0 +1,7 @@
+# Define inputs for the workflow.
+inputs:
+  - name: asia
+    # The workflow also accepts compressed metadata and sequences
+    # from GISAID.
+    metadata: data/hcov_asia.tsv
+    sequences: data/hcov_asia.fasta

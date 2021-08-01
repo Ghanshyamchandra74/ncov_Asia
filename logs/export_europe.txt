@@ -1,0 +1,35 @@
+WARNING: You asked for a color-by for trait 'pango_lineage', but it has no values on the tree. It has been ignored.
+
+WARNING: You asked for a color-by for trait 'GISAID_clade', but it has no values on the tree. It has been ignored.
+
+WARNING: You asked for a color-by for trait 'current_frequency', but it has no values on the tree. It has been ignored.
+
+WARNING: You asked for a color-by for trait 'location', but it has no values on the tree. It has been ignored.
+
+WARNING: You've specified a color scale for clade_membership but none of the values found on the tree had associated colors. Auspice will generate its own color scale for this trait.
+
+WARNING: You've specified a color scale for emerging_lineage but none of the values found on the tree had associated colors. Auspice will generate its own color scale for this trait.
+
+WARNING: These values for trait division were not specified in your provided color scale: valencia, asia, north america. Auspice will create colors for them.
+
+WARNING: These values for trait country were not specified in your provided color scale: asia, north america. Auspice will create colors for them.
+
+WARNING: These values for trait region were not specified in your provided color scale: asia, north america. Auspice will create colors for them.
+
+WARNING: Geo resolution "location" had no demes with supplied lat/longs and will be excluded from the exported "geo_resolutions".
+
+WARNING: division->Valencia did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+	WARNING:  "Valencia", a value of the geographic resolution "division", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  The coloring "logistic_growth" does not appear as an attr on any tree nodes.
+	WARNING:  The coloring "logistic_growth" does not appear as an attr on any tree nodes.
+	WARNING:  The filter "location" does not appear as a property on any tree nodes.
+Validating schema of 'results/europe/aa_muts.json'...
+Validating config file defaults/auspice_config.json against the JSON schema
+Validating schema of 'defaults/auspice_config.json'...
+Validating produced JSON
+Validating schema of 'results/europe/ncov_with_accessions.json'...
+Validating that the JSON is internally consistent...
+Validation of 'results/europe/ncov_with_accessions.json' succeeded, but there were warnings you may want to resolve.
+

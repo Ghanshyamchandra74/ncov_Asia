@@ -1,0 +1,396 @@
+
+0.00	-TreeAnc: set-up
+
+4.71	-SequenceData: loaded alignment.
+
+4.71	-SeqData: making compressed alignment...
+
+8.22	-SequenceData: constructed compressed alignment...
+8.26	---**WARNING: Number of tips in tree differs from number of sequences in
+    	   alignment!**
+
+8.29	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/UT-NCDC-120994/2021
+
+8.32	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	SintMaarten/SX-RIVM-33628/2021
+
+8.35	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Indonesia/SS-NIHRD-WGS02659/2021
+
+8.38	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/HP-NCDC-1609165/2021
+
+8.42	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bangladesh/G-149/2020
+
+8.45	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/UK-NCDC-1709113/2021
+
+8.48	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Ecuador/USFQ-1080/2021
+
+8.51	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	SriLanka/Genelabs-CA54589/2021
+
+8.54	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	SriLanka/CMC35812/2020
+
+8.56	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Pakistan/NIH-Sam15/2021
+
+8.58	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bangladesh/BCSIR-CVASU-11/2021
+
+8.60	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Gabon/CERMEL-BB0576/2021
+
+8.61	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/DL-NCDC-1909134/2021
+
+8.63	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bangladesh/203/2020
+
+8.65	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/MP-NCDC-210955/2021
+
+8.67	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/GA-NCCS-169651/2021
+
+8.69	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/DL-NCDC-2309269/2021
+
+8.71	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/DL-NCDC-2309340/2021
+
+8.73	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/GA-NCCS-169582/2021
+
+8.75	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Malta/MDxMDH506/2021
+
+8.76	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Brazil/PR-IPEC-012/2020
+
+8.78	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Vietnam/VNHN_302/2020
+
+8.80	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Gabon/CERMEL-DD0687/2021
+
+8.82	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/HP-NCDC-2109240/2021
+
+8.84	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/HP-NCDC-2109239/2021
+
+8.86	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/PB-NCDC-1409280/2021
+
+8.88	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bangladesh/IEDCR-OIS-172/2021
+
+8.90	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/MP-NCDC-210965/2021
+
+8.92	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Kazakhstan/NRL-YUZ-232S/2021
+
+8.94	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Pakistan/PPHRL-AH48/2021
+
+8.96	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Greece/180422/2021
+
+8.98	***WARNING: TreeAnc: 31 nodes don't have a matching sequence in the
+    	alignment. POSSIBLE ERROR.
+
+9.80	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+9.80	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+2.45	-SequenceData: loaded alignment.
+
+2.45	-SeqData: making compressed alignment...
+
+4.39	-SequenceData: constructed compressed alignment...
+4.40	---**WARNING: Number of tips in tree differs from number of sequences in
+    	   alignment!**
+
+4.42	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Australia/VIC15/2020
+
+4.44	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Slovakia/60023-VHU1453_2020/2020
+
+4.46	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bolivia/26953/2020
+
+4.48	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Djibouti/CNSS00388-IHU1031243469/2020
+
+4.50	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/MH-NCCS-87435/2021
+
+4.51	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/GA-NCCS-169651/2021
+
+4.53	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Shenzhen/IVDC-0610-01/2021
+
+4.55	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Myanmar/DSMRC011/2021
+
+4.58	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Greece/2026434/2020
+
+4.60	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Gabon/CERMEL-AA0024/2021
+
+4.62	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Gabon/CERMEL-AA0121/2021
+
+4.63	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Pakistan/PPHRL-AH51/2021
+
+4.65	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Pakistan/PPHRL-AH026/2021
+
+4.67	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Greece/180422/2021
+
+4.69	***WARNING: TreeAnc: 14 nodes don't have a matching sequence in the
+    	alignment. POSSIBLE ERROR.
+
+5.16	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+5.16	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+1.66	-SequenceData: loaded alignment.
+
+1.66	-SeqData: making compressed alignment...
+
+2.46	-SequenceData: constructed compressed alignment...
+2.48	---**WARNING: Number of tips in tree differs from number of sequences in
+    	   alignment!**
+
+2.50	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Slovakia/60023-VHU1453_2020/2020
+
+2.52	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Pakistan/NIH-Sam15/2021
+
+2.54	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bangladesh/CHRF-0196/2021
+
+2.56	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bangladesh/CHRF-0344/2021
+
+2.57	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bangladesh/BCSIR-NILMRC-790/2021
+
+2.59	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/MH-NCCS-87435/2021
+
+2.61	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/GA-NCCS-169651/2021
+
+2.63	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/GA-NCCS-169407/2021
+
+2.65	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Chongqing/210051/2021
+
+2.67	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/GA-NCCS-169334/2021
+
+2.69	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bangladesh/BCSIR-NILMRC-824/2021
+
+2.70	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/GA-NCCS-169582/2021
+
+2.72	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Israel/CVL-n1855/2020
+
+2.75	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/PB-98/2021
+
+2.76	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/PB-12/2021
+
+2.78	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/PB-217/2021
+
+2.81	***WARNING: TreeAnc: 16 nodes don't have a matching sequence in the
+    	alignment. POSSIBLE ERROR.
+
+3.05	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+3.05	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+1.03	-SequenceData: loaded alignment.
+
+1.03	-SeqData: making compressed alignment...
+
+1.20	-SequenceData: constructed compressed alignment...
+1.22	---**WARNING: Number of tips in tree differs from number of sequences in
+    	   alignment!**
+
+1.24	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Senegal/SN-IR1-0013954/2020
+
+1.26	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Senegal/SN-IR1-0014258/2020
+
+1.28	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Honduras/336319/2021
+
+1.30	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	HongKong/VM21027255/2021
+
+1.31	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Honduras/316254/2021
+
+1.33	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Georgia/Tb-22208/2020
+
+1.35	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Georgia/Tb-27822/2020
+
+1.37	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Indonesia/YO-NIHRD-WGS00940/2021
+
+1.39	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Curacao/CW-AUMC-000717/2021
+
+1.41	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Colombia/COR-INS-VG-4016/2021
+
+1.42	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Curacao/CW-RIVM-43128/2021
+
+1.44	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Aruba/AW-RIVM-39232/2021
+
+1.46	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	DominicanRepublic/33903/2021
+
+1.48	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Curacao/CW-RIVM-40804/2021
+
+1.50	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bonaire/BQ-RIVM-42355/2021
+
+1.51	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	DominicanRepublic/33899/2021
+
+1.53	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	DominicanRepublic/33929/2021
+
+1.55	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Colombia/COR-INS-VG-4017/2021
+
+1.57	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	DominicanRepublic/33897/2021
+
+1.59	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	DominicanRepublic/33898/2021
+
+1.60	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Curacao/CW-RIVM-35049/2021
+
+1.62	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bonaire/BQ-RIVM-42398/2021
+
+1.64	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bonaire/BQ-RIVM-43226/2021
+
+1.66	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bonaire/BQ-RIVM-35139/2021
+
+1.68	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bonaire/BQ-RIVM-39010/2021
+
+1.69	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Bonaire/BQ-RIVM-35094/2021
+
+1.71	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Pakistan/NIH-Sam15/2021
+
+1.73	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Pakistan/NIH-Sam13/2021
+
+1.77	***WARNING: TreeAnc: 28 nodes don't have a matching sequence in the
+    	alignment. POSSIBLE ERROR.
+
+1.84	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+1.84	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+1.01	-SequenceData: loaded alignment.
+
+1.01	-SeqData: making compressed alignment...
+
+1.15	-SequenceData: constructed compressed alignment...
+1.17	---**WARNING: Number of tips in tree differs from number of sequences in
+    	   alignment!**
+
+1.19	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Venezuela/12MZ/2020
+
+1.21	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Zambia/ZMB-69443/2020
+
+1.23	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/GA-NCCS-169334/2021
+
+1.25	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Luxembourg/LNS2489430/2020
+
+1.28	***WARNING: TreeAnc: 4 nodes don't have a matching sequence in the
+    	alignment. POSSIBLE ERROR.
+
+1.34	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+1.34	--TreeAnc._ml_anc_joint: type of reconstruction: Joint
+
+0.00	-TreeAnc: set-up
+
+1.17	-SequenceData: loaded alignment.
+
+1.17	-SeqData: making compressed alignment...
+
+1.43	-SequenceData: constructed compressed alignment...
+1.45	---**WARNING: Number of tips in tree differs from number of sequences in
+    	   alignment!**
+
+1.47	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Estonia/Cov4823/2020
+
+1.50	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	France/IDF-CERBAHC-HFCFLBGXJ-S40/2021
+
+1.52	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	India/GA-NCCS-169582/2021
+
+1.54	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Estonia/Cov7703/2020
+
+1.56	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Colombia/ANT-CWOHC-VG-SEC00409S/2021
+
+1.58	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Slovenia/160737/2021
+
+1.60	***WARNING: TreeAnc._attach_sequences_to_nodes: NO SEQUENCE FOR LEAF:
+    	Slovenia/145286/2021
+
+1.62	***WARNING: TreeAnc: 7 nodes don't have a matching sequence in the
+    	alignment. POSSIBLE ERROR.
+
+1.72	-TreeAnc.infer_ancestral_sequences with method: probabilistic, joint
+1.72	--TreeAnc._ml_anc_joint: type of reconstruction: Joint

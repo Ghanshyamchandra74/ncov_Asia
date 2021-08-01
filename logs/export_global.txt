@@ -1,0 +1,157 @@
+WARNING: [config file] Trait 'emerging_lineage' is missing type information. We've guessed 'categorical'.
+
+WARNING: [config file] Trait 'current_frequency' is missing type information. We've guessed 'continuous'.
+
+WARNING: [config file] Trait 'logistic_growth' is missing type information. We've guessed 'continuous'.
+
+WARNING: [config file] Trait 'S1_mutations' is missing type information. We've guessed 'continuous'.
+
+WARNING: These values for trait clade_membership were not specified in your provided color scale: 20c, 20g, 20d, 20b, 20e (eu1), 19b, 19a, 20a, 20f. Auspice will create colors for them.
+
+WARNING: These values for trait location were not specified in your provided color scale: ?. Auspice will create colors for them.
+
+WARNING: These values for trait emerging_lineage were not specified in your provided color scale: unassigned. Auspice will create colors for them.
+
+WARNING: location->Santiago CL did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Sumbawa did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Gorazdze did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Saifai did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Ghaziabad did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Santa Barbara do Monte Verde did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Karainagar did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Stare Lesno did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->West Sikkim did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Buleleng did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Bogambara did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Welisara did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Cereté did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Semarang did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Bulungan did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Panipat did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->? did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Capetownmetro did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Udaipur did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Calabar did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Unakoti did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Santa Leopoldina did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Jambi did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Wonogiri did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Meerut did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Nemby did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Wadduwa did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Nathudwara did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Dadra and Nagar Haveli did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Nawagamuwa did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Merauke did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->North Sikkim did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Jind did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+WARNING: location->Nalhar did not have an associated lat/long value (matching performed in lower case). Auspice won't be able to display this location.
+
+	WARNING:  "Santiago CL", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Sumbawa", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Gorazdze", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Saifai", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Ghaziabad", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Santa Barbara do Monte Verde", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Karainagar", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Stare Lesno", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "West Sikkim", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Buleleng", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Bogambara", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Welisara", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Cereté", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Semarang", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Bulungan", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Panipat", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Capetownmetro", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Udaipur", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Calabar", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Unakoti", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Santa Leopoldina", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Jambi", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Wonogiri", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Meerut", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Nemby", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Wadduwa", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Nathudwara", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Dadra and Nagar Haveli", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Nawagamuwa", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Merauke", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "North Sikkim", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Jind", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  "Nalhar", a value of the geographic resolution "location", appears in the tree but not in the metadata.
+		This will cause transmissions & demes involving this location not to be displayed in Auspice
+	WARNING:  The coloring "genbank_accession" does not appear as an attr on any tree nodes.
+Validating schema of 'results/global/aa_muts.json'...
+Validating config file my_profiles/example/my_auspice_config.json against the JSON schema
+Validating schema of 'my_profiles/example/my_auspice_config.json'...
+Validating produced JSON
+Validating schema of 'results/global/ncov_with_accessions.json'...
+Validating that the JSON is internally consistent...
+Validation of 'results/global/ncov_with_accessions.json' succeeded, but there were warnings you may want to resolve.
+

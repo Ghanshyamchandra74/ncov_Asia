@@ -1,0 +1,6 @@
+214 strains were dropped during filtering
+	11 had no sequence data
+	3967 of these were dropped by `--exclude-all`
+
+	3764 strains were added back because they were requested by include files
+3764 strains passed all filters

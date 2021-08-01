@@ -1,0 +1,9 @@
+2423 strains were dropped during filtering
+	11 had no sequence data
+	0 of these were dropped because they were in ['defaults/exclude.txt']
+	2399 of these were dropped because of 'region=Asia'
+	15 of these were dropped because of subsampling criteria
+
+	2 strains were added back because they were requested by include files
+	1 strains from include files were not added because they lacked sequence or metadata
+1555 strains passed all filters
