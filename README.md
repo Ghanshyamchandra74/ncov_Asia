@@ -14,7 +14,7 @@ augur auspice nextstrain-cli nextalign snakemake awscli git pip ` \
  (currently configured for 8 threads, you can specify `cores:`=2/4/8 (max: 8) in `my_profiles/example/config.yaml`)
 # Visualize
 ` nextstrain view auspice` \
-open: ` 127.0.0.1:4000 ` in browser 
+open: ` 127.0.0.1:4000 ` in browser and select data datset `ncov/asia/india`
 
 # Remote Visualize
 ` ssh -L 4000:localhost:4000 username@host ` \
