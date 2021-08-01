@@ -23,4 +23,5 @@ open: ` 127.0.0.1:4000 ` in browser and select dataset `ncov/asia/india`
 ` ssh -L 4000:localhost:4000 username@host ` \
 ` nextstrain view auspice` \
 open: ` 127.0.0.1:4000 ` in remote browser \
- Reference : https://docs.nextstrain.org/en/latest/tutorials/SARS-CoV-2/index.html
+ Reference : https://docs.nextstrain.org/en/latest/tutorials/SARS-CoV-2/index.html \
+ Template is used from: https://github.com/nextstrain/ncov
